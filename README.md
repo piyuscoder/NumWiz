@@ -53,3 +53,7 @@ NumWiz/
 🏁 License
 
 This project is open source and available under the MIT License.
+
+🙌 Thank You
+Thanks for checking out the GuessTheNumber project!
+If you liked it, feel free to ⭐ star the repo and share with others.
