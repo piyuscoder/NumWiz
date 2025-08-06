@@ -8,8 +8,9 @@ int main()
     int randomNumber = min + rand() % (max - min + 1);
 
 
+    printf("\n\t\t\t\t\t**Welcom to NumWiz game**\n\n");
+    printf("<----------------you have only 5 chance to guess the correct number-------------->\n\n");
     printf("Enter number between 1 to 100\n");
-    printf("<----------------you have only 5 chance to guess the correct number-------------->\n");
 
     while (count)
     {
@@ -32,4 +33,5 @@ int main()
     }
     printf("\nYou lost the game. Try again...");
     return 0;
+
 }
